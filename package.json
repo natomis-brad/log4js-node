@@ -1,7 +1,7 @@
 {
   "name": "log4js",
-  "version": "0.6.9",
-  "description": "Port of Log4js to work with node.",
+  "version": "0.0.1",
+  "description": "Fork of Port of Log4js to work with node.",
   "keywords": [
     "logging",
     "log",
@@ -9,13 +9,13 @@
     "node"
   ],
   "main": "./lib/log4js",
-  "author": "Gareth Jones <gareth.jones@sensis.com.au>",
+  "author": "Natomis",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nomiddlename/log4js-node.git"
+    "url": "https://bitbucket.org/natomis/log4js-node.git"
   },
   "bugs": {
-    "url": "http://github.com/nomiddlename/log4js-node/issues"
+    "url": "https://bitbucket.org/natomis/log4js-node/issues"
   },
   "engines": {
     "node": ">=0.8"
